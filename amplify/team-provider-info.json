@@ -1,0 +1,33 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-telehomecare-dev-593d4-authRole",
+      "UnauthRoleArn": "arn:aws:iam::774305579285:role/amplify-telehomecare-dev-593d4-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::774305579285:role/amplify-telehomecare-dev-593d4-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-telehomecare-dev-593d4-deployment",
+      "UnauthRoleName": "amplify-telehomecare-dev-593d4-unauthRole",
+      "StackName": "amplify-telehomecare-dev-593d4",
+      "StackId": "arn:aws:cloudformation:us-east-1:774305579285:stack/amplify-telehomecare-dev-593d4/ec915ae0-f3d4-11ef-a9cf-0ea02620cf09",
+      "AmplifyAppId": "d2lqleh2uwmf7p"
+    }
+  },
+  "developer": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-telehomecare-developer-f5360-authRole",
+      "UnauthRoleArn": "arn:aws:iam::774305579285:role/amplify-telehomecare-developer-f5360-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::774305579285:role/amplify-telehomecare-developer-f5360-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-telehomecare-developer-f5360-deployment",
+      "UnauthRoleName": "amplify-telehomecare-developer-f5360-unauthRole",
+      "StackName": "amplify-telehomecare-developer-f5360",
+      "StackId": "arn:aws:cloudformation:us-east-1:774305579285:stack/amplify-telehomecare-developer-f5360/9a8edea0-f3d6-11ef-9540-0e0609817685",
+      "AmplifyAppId": "d2lqleh2uwmf7p"
+    },
+    "categories": {
+      "auth": {
+        "telehomecare36c68d0c": {}
+      }
+    }
+  }
+}
